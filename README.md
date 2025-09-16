@@ -30,6 +30,6 @@ Ela mostra como os serviços da AWS se conectariam entre si para rodar o Quiz B�
 5. O **EC2** conversa com:  
    - **RDS** para perguntas, respostas e ranking.  
    - **S3** para arquivos de mídia (imagens/áudios).  
-6. Se uma instância cair, o balanceamento e o autoscaling garantem alta disponibilidade.
+
 
 
